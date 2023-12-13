@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "sweHW7"
+  site-url: "https://noahschulman14.github.io/sweHW7"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/noahschulman14/sweHW7"
